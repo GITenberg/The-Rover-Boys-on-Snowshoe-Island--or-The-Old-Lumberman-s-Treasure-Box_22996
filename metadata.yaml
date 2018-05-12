@@ -1,0 +1,34 @@
+_repo: The-Rover-Boys-on-Snowshoe-Island--or-The-Old-Lumberman-s-Treasure-Box_22996
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Captain Ralph
+    - Winfield, Arthur M.
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hunting stories'
+- !lcsh 'Detective and mystery stories'
+title: The Rover Boys on Snowshoe Island; or, The Old Lumberman's Treasure Box
+url: http://www.gutenberg.org/ebooks/22996
